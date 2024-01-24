@@ -11,4 +11,4 @@ Columbia University Innovation Hub, Tang Family Hall, Room 202
 New York, NY 10027, USA
 
 -----
-This folder will evolve to hold various workspaces. For now, we are focusing on building out the [participant-prep-work](./resources/participant-prep-work.md) file to help everyone come as prepared as possible.
+This folder will evolve to hold various workspaces. For now, we are focusing on building out the [participant-prep-work](./participant-prep-work.md) file to help everyone come as prepared as possible.
